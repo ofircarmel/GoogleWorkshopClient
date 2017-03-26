@@ -1,1 +1,2 @@
-# GoogleWorkshopClientThis Module is responsible for all client side logic and UI
+# GoogleWorkshopClient
+This Module is responsible for all client side logic and UI
